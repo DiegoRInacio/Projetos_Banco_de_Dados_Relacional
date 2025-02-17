@@ -8,4 +8,4 @@ Também discutiremos o conceito de __View__, `que permite a criação de tabelas
 
 Esses são apenas alguns dos conceitos que iremos aprofundar ao longo do curso, sempre com foco na aplicação prática e no entendimento das bases que sustentam os sistemas de bancos de dados relacionais.
 
-Tenham todos um ótimo estudo.
+Ótimos estudos a todos!
